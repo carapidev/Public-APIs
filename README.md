@@ -771,6 +771,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**ADS-B Exchange**](https://www.adsbexchange.com/data/) | Access real-time and historical data of any and all airborne aircraft. | **N/A** |
 | [**AfterShip**](https://www.aftership.com/docs/api/4/overview) | Provides multi-carrier shipment tracking APIs. | **N/A** |
 | [**CarsXE API**](https://api.carsxe.com/) | Get access to millions of vehicle records, specs, ownership costs and market values. | 💸 |
+| [**CarAPI**](https://carapi.app/) | RESTful API with over 66,000 vehicles sold in the United States from 1990 to today.
 | [**Edmunds**](http://developer.edmunds.com/) | A dataset containing all the car makes. | **N/A** |
 | [**HyperTrack**](https://docs.hypertrack.com) | Build applications that track the movement of your business. | 💸 |
 | [**Lyft**](https://www.lyft.com/developers) | Get real-time ETAs, availability, price estimates, ride status through the Lyft API. | **N/A** |
